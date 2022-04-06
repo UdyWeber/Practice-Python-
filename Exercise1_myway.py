@@ -1,5 +1,6 @@
 from datetime import date
 
+muca = "Muca é gay"
 
 class Person:
 
